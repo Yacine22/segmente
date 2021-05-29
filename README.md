@@ -16,6 +16,6 @@
 -- Entropy
 
 ## Final Result
-<img src="markdownmonstericon.png"
+<img src="seg_0001_1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
